@@ -1,0 +1,13 @@
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.exe
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.deps.json
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.runtimeconfig.json
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.runtimeconfig.dev.json
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.dll
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\bin\Debug\netcoreapp3.1\VectorMathLibrary.pdb
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.csproj.AssemblyReference.cache
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.AssemblyInfoInputs.cache
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.AssemblyInfo.cs
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.dll
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.pdb
+C:\Users\sjlegus\OneDrive - Seattle School District No. 1\Documents\0_CompSci\VectorMathLibrary\VectorMathLibrary\obj\Debug\netcoreapp3.1\VectorMathLibrary.genruntimeconfig.cache

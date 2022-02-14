@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorMathLibrary", "VectorMathLibrary\VectorMathLibrary.csproj", "{CE048AFA-7228-491B-81D6-FB539421B747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE048AFA-7228-491B-81D6-FB539421B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE048AFA-7228-491B-81D6-FB539421B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE048AFA-7228-491B-81D6-FB539421B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE048AFA-7228-491B-81D6-FB539421B747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60821955-526B-412A-8171-77BB12286CCB}
+	EndGlobalSection
+EndGlobal
