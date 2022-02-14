@@ -6,12 +6,14 @@ namespace VectorMathLibrary
     {
         static void Main(string[] args)
         {
-            Vector2 u = new Vector2(1, 1);
             Vector2 v = new Vector2(2, 3);
-            Vector2 r = new Vector2(-1, 2);
+            Console.WriteLine(v.normalized);
+            Console.WriteLine(v.normalized.magnitude);
 
-            Console.WriteLine(5f * v);
-            Console.WriteLine(v * 5f);
+            Vector2 u = new Vector2(-5, 1);
+            u.Normalize();
+            Console.WriteLine(u);
+            Console.WriteLine(u.magnitude);
         }
     }
 }

@@ -49,5 +49,20 @@ namespace VectorMathLibrary
         {
             return new Vector2(a * b.x, a * b.y);
         }
+
+        public void Normalize()
+        {
+            float mag = magnitude;
+            this.x /= mag;
+            this.y /= mag;
+        }
+
+        public Vector2 normalized
+        {
+            get
+            {
+                return new Vector2(this.x / magnitude, this.y / magnitude);
+            }
+        }
     }
 }
